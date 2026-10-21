@@ -1,6 +1,8 @@
 # Franka Panda Robot - ROS 2 Workspace
 
 ROS 2 workspace containing the Franka Panda robot description and controller configuration.
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/94237fab-470f-4f00-bcfa-ef33aefecef7" />
+
 
 ## Packages
 
